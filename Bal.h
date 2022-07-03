@@ -7,12 +7,21 @@ void inf_bal()
     printf("bal");
     }
 }
-
+///For Adddd
 void cal(int a,int b){
     int sum=0;
     sum = a+b;
     printf("Result is : %d",sum);
 }
+
+//For Subtract
+void cal(int a,int b){
+    int sum=0;
+    sum = a-b;
+    printf("Result is : %d",sum);
+}
+
+
 //Prototype
 void bal_er_love();
 //Declaration
